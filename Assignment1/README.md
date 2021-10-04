@@ -34,6 +34,10 @@ Contains images of confusion matrices, from the best (out of ten) model for each
 
 Contains python notebook for producing the ROC and PR curves. Also contains images of the curves. 
 
+## Report
+
+Contains files needed to produce report. Was created in Overleaf.
+
 ## Morgue
 
 Old python notebooks no longer needed for the project.
