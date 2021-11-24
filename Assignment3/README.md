@@ -38,7 +38,7 @@ Chaofan Chen et al. This Looks Like That: Deep Learning for Interpretable Image 
 
 Tim Miller. Explanation in Artificial Intelligence: Insights from the Social Sciences. 2018. arXiv: 1706.07269 [cs.AI].
 
-Cynthia Rudin and Joanna Radin. “Why Are We Using Black Box Models in AI When We Don’t Need To? A Lesson From An Explainable AI Competition”. In: Harvard Data Science Review 1.2 (Nov. 22, 2019). doi: 10.1162/99608f92.5a8a3a3d. url: https://hdsr.mitpress.mit.edu/ pub/f9kuryi8.
+Cynthia Rudin and Joanna Radin. “Why Are We Using Black Box Models in AI When We Don’t Need To? A Lesson From An Explainable AI Competition”. In: Harvard Data Science Review 1.2 (Nov. 22, 2019). doi: 10.1162/99608f92.5a8a3a3d. url: https://hdsr.mitpress.mit.edu/pub/f9kuryi8.
 
 Farhad Shakerin and Gopal Gupta. White-box Induction From SVM Models: Explainable AI with Logic Programming. 2020. arXiv: 2008 . 03301 [cs.AI].
 
