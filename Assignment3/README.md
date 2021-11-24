@@ -32,15 +32,15 @@ Contains files used to create the report (done in Overleaf), and the report itse
 
 ## References
 
-Elaine Angelino et al. Learning Certifiably Optimal Rule Lists for Categorical Data. 2018. arXiv: 1704.01701 [stat.ML].
+Elaine Angelino et al. Learning Certifiably Optimal Rule Lists for Categorical Data. 2018. arXiv: 1704.01701 [stat.ML].
 
 Chaofan Chen et al. This Looks Like That: Deep Learning for Interpretable Image Recognition. 2019. arXiv: 1806.10574 [cs.LG].
 
 Tim Miller. Explanation in Artificial Intelligence: Insights from the Social Sciences. 2018. arXiv: 1706.07269 [cs.AI].
 
-Cynthia Rudin and Joanna Radin. “Why Are We Using Black Box Models in AI When We Don’t Need To? A Lesson From An Explainable AI Competition”. In: Harvard Data Science Review 1.2 (Nov. 22, 2019). doi: 10.1162/99608f92.5a8a3a3d. url: https://hdsr.mitpress.mit.edu/ pub/f9kuryi8.
+Cynthia Rudin and Joanna Radin. “Why Are We Using Black Box Models in AI When We Don’t Need To? A Lesson From An Explainable AI Competition”. In: Harvard Data Science Review 1.2 (Nov. 22, 2019). doi: 10.1162/99608f92.5a8a3a3d. url: https://hdsr.mitpress.mit.edu/ pub/f9kuryi8.
 
-Farhad Shakerin and Gopal Gupta. White-box Induction From SVM Models: Explainable AI with Logic Programming. 2020. arXiv: 2008 . 03301 [cs.AI].
+Farhad Shakerin and Gopal Gupta. White-box Induction From SVM Models: Explainable AI with Logic Programming. 2020. arXiv: 2008 . 03301 [cs.AI].
 
 Herna Viktor. Topic4 Trees (CSI5155 Lecture Notes). Nov. 2021.
 
