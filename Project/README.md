@@ -8,7 +8,7 @@ This is my Project submission.
 
 ## Data
 
-Contains original data, possible processed datasets, and the optimal dataset for Decision Tree Classifier based on F1-Score).
+Contains original data.
 
 ## Report
 
