@@ -15,3 +15,5 @@ Contains original data.
 Contains files used to create the report (done in Overleaf), and the report itself.
 
 ## References
+
+papabloblo, SemiBoost, (2018), GitHub repository, https://github.com/papabloblo/semi_boost
